@@ -18,7 +18,7 @@ homepage.clickGo();
 //expect(result.getText()).toEqual('5');
 homepage.verifyResults('5');
 
-browser.sleep(2000);
+browser.sleep(3000);
 
 });
 
